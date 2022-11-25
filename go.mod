@@ -1,4 +1,4 @@
-module github.com/benkoben/azure-subnetcalc-mod
+module github.com/benkoben/azsubnetcalc
 
 go 1.19
 
