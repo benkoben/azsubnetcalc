@@ -1,4 +1,4 @@
-package subnetcalc
+package azsubnetcalc
 
 import (
 	"fmt"
