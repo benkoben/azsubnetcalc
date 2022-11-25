@@ -1,4 +1,4 @@
-package subnetcalc
+package azsubnetcalc
 
 /*
 	This file is the "entrypoint" for the subnetcalc module.
