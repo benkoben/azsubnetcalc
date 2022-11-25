@@ -1,5 +1,4 @@
-![example branch parameter](https://github.com/benkoben/azsubnetcalc/actions/workflows/unit-test.yml/badge.svg?branch=main)
-
+[![Build master](https://github.com/benkoben/azsubnetcalc/actions/workflows/unit-test.yaml/badge.svg)](https://github.com/benkoben/azsubnetcalc/actions/workflows/unit-test.yaml)
 
 Subnetcalc
 ===
